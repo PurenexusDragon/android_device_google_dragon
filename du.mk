@@ -1,4 +1,4 @@
-
+#
 # Copyright (C) 2013-2016 The Android Open Source Project
 #
 # Licensed under the Apache License, Version 2.0 (the "License");
@@ -32,5 +32,5 @@ PRODUCT_NAME := du_dragon
 
 PRODUCT_BUILD_PROP_OVERRIDES += \
     PRODUCT_NAME=dragon \
-    BUILD_FINGERPRINT=google/ryu/dragon:7.0/NRD91D/3234828:userdebug/dev-keys \
-    PRIVATE_BUILD_DESC="ryu-user 7.0 NRD91D 3234828 dev-keys"
+    BUILD_FINGERPRINT=google/ryu/dragon:7.0/NRD91N/3318108:user/release-keys \
+    PRIVATE_BUILD_DESC="ryu-user 7.0 NRD91N 3318108 release-keys"
